@@ -1,0 +1,1 @@
+const util_q5n5 = (d: any) => d;
